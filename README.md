@@ -52,7 +52,7 @@ Una vez dentro ejecutamos el comando:
 Tenemos que ir a la carpeta donde se encuentra el archivo *manage.py*  
 (Siempre dentro de nuestro contenedor de software - Comando N°2)  
 
-**$** `cd opt/back_end/modulo_2` 
+**$** `cd modulo_2` 
 Y ejecutar el comando:  
 
 **$** `python manage.py startapp mi_app` 
